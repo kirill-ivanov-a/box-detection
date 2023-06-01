@@ -1,0 +1,4 @@
+onnxruntime
+onnxruntime-gpu
+opencv-python
+matplotlib
